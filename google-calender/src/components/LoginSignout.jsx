@@ -130,7 +130,7 @@ export const LoginSignout = () => {
         'RRULE:FREQ=DAILY;COUNT=1'
       ],
       'attendees': [
-        {'email': 'ritiksingh11661@gmail.com','responseStatus':'needsAction'},
+        {'email': 'techmovieadd@gmail.com','responseStatus':'needsAction'},
       ],
       'reminders': {
         'useDefault': true,
